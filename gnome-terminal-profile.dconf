@@ -1,0 +1,16 @@
+[/]
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '567ef868-f1fb-44b9-889d-817d89010187']
+default='567ef868-f1fb-44b9-889d-817d89010187'
+
+[:567ef868-f1fb-44b9-889d-817d89010187]
+visible-name='blue'
+cursor-colors-set=false
+highlight-colors-set=false
+use-theme-colors=false
+use-transparent-background=true
+use-theme-transparency=true
+bold-color-same-as-fg=false
+bold-color='rgb(155,170,177)'
+background-color='rgb(17,34,53)'
+background-transparency-percent=4
+highlight-background-color='rgb(182,209,247)'
