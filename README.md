@@ -4,7 +4,7 @@
 
 1. Step <a href=/source/github.sh>GitHub</a> client on ubuntu
 2. Step to install guest os (Ubuntu 14.04) using <a href=/source/QEMU.md>QEMU</a>
-3. Ubuntu terminal profile <a  href=/ubuntu/gnome-terminal-profile.dconf>dconf file</a>
+3. Ubuntu terminal profile <a  href=/linux/gnome-terminal-profile.dconf>dconf file</a>
 
 # Android hacking
 
