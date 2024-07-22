@@ -4,3 +4,9 @@
 
 
 1. property wrappers
+
+closure
+
+trailing closure
+
+escaping closure
