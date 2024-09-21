@@ -10,3 +10,6 @@ closure
 trailing closure
 
 escaping closure
+
+swift concurrency 
+https://www.swiftwithvincent.com/blog/heres-how-you-can-learn-swift-concurrency-in-2-hours
