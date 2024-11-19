@@ -5,6 +5,8 @@
 
 1. property wrappers
 
+Learn swift and ios development in apple recommend way -  https://m.youtube.com/watch?v=HbWRVG-EvwM
+
 closure
 
 trailing closure
