@@ -26,6 +26,6 @@ export dconf`dconf dump /org/gnome/terminal/legacy/profiles:/ > gnome-terminal-p
 3. Swift [[link]](/dev/ios/swift.md)
 4. Android [[link]](/security/)
 5. Framework [[link]](dev/ios/framework.md)
-6. Other [[link]](/security/)
+6. MPV media player config [[link]](/mpv/)
 7. Other [[link]](/security/)
 8. Other [[link]](/security/)
