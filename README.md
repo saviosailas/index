@@ -21,11 +21,10 @@ export dconf`dconf dump /org/gnome/terminal/legacy/profiles:/ > gnome-terminal-p
 
 ## Topics
 
-1. Security [[link]](/security/)
-2. iOS [[link]](/security/ios.md)
-3. Swift [[link]](/dev/ios/swift.md)
-4. Android [[link]](/security/)
-5. Framework [[link]](dev/ios/framework.md)
-6. MPV media player config [[link]](/mpv/)
-7. Other [[link]](/security/)
-8. Other [[link]](/security/)
+1.  [Security](/security/)
+2.  [iOS](/security/ios.md)
+3.  [Swift](/dev/ios/swift.md)
+4.  [Android](/security/)
+5.  [Framework](dev/ios/framework.md)
+6.  [MPV media player config](/mpv/)
+7.  [s/w list](/software.md/)
