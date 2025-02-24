@@ -28,3 +28,4 @@ export dconf`dconf dump /org/gnome/terminal/legacy/profiles:/ > gnome-terminal-p
 5.  [Framework](dev/ios/framework.md)
 6.  [MPV media player config](/mpv/)
 7.  [software list](/software.md/)
+8. [tutorial](/tutorial.md)
