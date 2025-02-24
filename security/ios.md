@@ -15,3 +15,7 @@ escaping closure
 
 swift concurrency 
 https://www.swiftwithvincent.com/blog/heres-how-you-can-learn-swift-concurrency-in-2-hours
+
+swift ios samples
+codeCandyBlog
+github.com/CodeCandySchool/CodeCandyBlog
