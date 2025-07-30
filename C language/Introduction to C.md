@@ -4,10 +4,10 @@
 
 ### Functions
 
-[functions in C](/functions)
+[functions in C](functions.md)
 
 ### Pointers
-[pointers info](/pointers)
+[pointers info](pointers.md)
 
 ### Data types
-[open](Data%20types)
+[open](Data%20types.md)
